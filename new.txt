@@ -1,3 +1,7 @@
 hello....there!!
 How u doing...
+<<<<<<< HEAD
 i have added from git webportal
+=======
+i amhere
+>>>>>>> newbranch
